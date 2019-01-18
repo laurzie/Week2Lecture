@@ -1,0 +1,18 @@
+body{
+  background: #ff9;
+  color:black;
+  size: 150%;
+  margin:5%;
+}
+
+p{
+  font-family: Arial;
+}
+
+nav a{
+  color:pink;
+}
+
+ a{
+  color: blue;
+}
